@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/qr-wedding-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/qr-wedding-app/static/js/main.2a2fc5bb.chunk.js",
-    "main.js.map": "/qr-wedding-app/static/js/main.2a2fc5bb.chunk.js.map",
+    "main.js": "/qr-wedding-app/static/js/main.3a73e0f0.chunk.js",
+    "main.js.map": "/qr-wedding-app/static/js/main.3a73e0f0.chunk.js.map",
     "runtime-main.js": "/qr-wedding-app/static/js/runtime-main.d0ede189.js",
     "runtime-main.js.map": "/qr-wedding-app/static/js/runtime-main.d0ede189.js.map",
     "static/js/2.2316e9b1.chunk.js": "/qr-wedding-app/static/js/2.2316e9b1.chunk.js",
     "static/js/2.2316e9b1.chunk.js.map": "/qr-wedding-app/static/js/2.2316e9b1.chunk.js.map",
     "index.html": "/qr-wedding-app/index.html",
-    "precache-manifest.5ee111875c4cc3d3d8dce331bccf3c81.js": "/qr-wedding-app/precache-manifest.5ee111875c4cc3d3d8dce331bccf3c81.js",
+    "precache-manifest.875893a0c23edf650a7c53516d5bfd2c.js": "/qr-wedding-app/precache-manifest.875893a0c23edf650a7c53516d5bfd2c.js",
     "service-worker.js": "/qr-wedding-app/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/qr-wedding-app/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.2316e9b1.chunk.js.LICENSE": "/qr-wedding-app/static/js/2.2316e9b1.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d0ede189.js",
     "static/js/2.2316e9b1.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2a2fc5bb.chunk.js"
+    "static/js/main.3a73e0f0.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/qr-wedding-app/precache-manifest.5ee111875c4cc3d3d8dce331bccf3c81.js"
+  "/qr-wedding-app/precache-manifest.875893a0c23edf650a7c53516d5bfd2c.js"
 );
 
 self.addEventListener('message', (event) => {

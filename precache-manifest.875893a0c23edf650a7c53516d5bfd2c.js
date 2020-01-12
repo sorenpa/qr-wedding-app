@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a15f282d59eca53b679442466cb1e08",
+    "revision": "92fed9020cfdf47abef72d9c4155d623",
     "url": "/qr-wedding-app/index.html"
   },
   {
-    "revision": "d7b301be10dbb129c60f",
+    "revision": "a3ebe635a3c535ce3bb7",
     "url": "/qr-wedding-app/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qr-wedding-app/static/js/2.2316e9b1.chunk.js.LICENSE"
   },
   {
-    "revision": "d7b301be10dbb129c60f",
-    "url": "/qr-wedding-app/static/js/main.2a2fc5bb.chunk.js"
+    "revision": "a3ebe635a3c535ce3bb7",
+    "url": "/qr-wedding-app/static/js/main.3a73e0f0.chunk.js"
   },
   {
     "revision": "8530ed4b7595b3c7d48c",
