@@ -8,7 +8,7 @@ const App: React.FC = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Søren og Kathrines Bryllup.
+          Søren og Kathrines Bryllup v2
         </p>
       </header>
     </div>
